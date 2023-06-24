@@ -38,4 +38,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgements
 
 - This program was created as a learning exercise.
-- Special thanks to OpenAI for providing the underlying language model.

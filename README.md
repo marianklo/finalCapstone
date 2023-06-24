@@ -18,14 +18,10 @@ This program allows users to perform financial calculations related to investmen
    git clone https://github.com/your-username/financial-calculator.git
 
 2. Navigate to the project directory:
-
-  cd financial-calculator
-
+   cd financial-calculator
 
 3. Run the program:
-
-  python calculator.py
-
+   python calculator.py
 
 4. Follow the on-screen prompts and provide the required information.
 
